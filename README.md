@@ -1,4 +1,4 @@
-# 📋 Kanban Workspace Pr
+# 📋 Kanban Workspace Pro
 
 Uma aplicação web moderna de **Quadro Kanban** (estilo Trello) desenvolvida de raiz utilizando apenas tecnologias nativas do ecossistema web (**HTML5, CSS3 puro e JavaScript Vanilla**), sem dependências de frameworks ou bibliotecas externas.
 
